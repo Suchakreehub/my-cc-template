@@ -1,1 +1,1 @@
-# my-cs-template
+# my-cc-template
